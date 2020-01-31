@@ -1,0 +1,5 @@
+A student has performed very well in the city's olympiad. It would be a great opportunity to motivate others by awarding the aforementioned student with some money, don't you think?
+Are you going to give the student some money as an award?
+
+Accept: rating++ money-
+Decline: rating+
