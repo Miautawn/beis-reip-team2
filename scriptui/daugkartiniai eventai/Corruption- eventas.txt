@@ -1,0 +1,5 @@
+Good news! A teacher (who you suspect might want to snitch on you) couldn't control his anger and hit a student during a lesson.
+This is the perfect opportunity to fire him and get rid of two problems at once. Are you going to fire him?
+
+Accept: corruption--
+Decline: corruption++
