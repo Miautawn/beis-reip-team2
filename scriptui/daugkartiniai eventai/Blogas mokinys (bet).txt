@@ -1,0 +1,5 @@
+Rumour has it that one of the school students made a bet with others that he will purposely get the worst grades for the next month.
+Are you going to kick him (you don't really have a legal reason to do it)?
+
+Accept: Ratings+ Corruption+
+Decline: Ratings-
