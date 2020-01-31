@@ -1,0 +1,6 @@
+A member of the parliament is coming to the school to give a speech about the importance of learning.
+Of course, it's not the first time an official is coming here and you know that his true intentions are to gain publicity, but it's not like you won't gain anything - your students might be more motivated for a little while.
+Well, are you going to allow the politician to do his thing?
+
+Accept: rating+
+Decline: nieko nebuna
