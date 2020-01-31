@@ -1,0 +1,4 @@
+It seems that a toilet in the restroom is clogged (again). Are you going to fix this problem?
+
+Accept: money-
+Decline: rating-
