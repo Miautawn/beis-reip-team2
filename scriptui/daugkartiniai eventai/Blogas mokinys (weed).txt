@@ -1,0 +1,5 @@
+One of your exemplary students was caught taking drugs in the school's restroom. 
+Are you going to kick him out of the school?
+
+Accept: Ratingai- Corruption-
+Decline: Corruption+
