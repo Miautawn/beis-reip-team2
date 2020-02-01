@@ -1,5 +1,5 @@
-Shady people have come to your office with an offer of giving you money for some favours in the future...
+Your school is one of the many that offers a free wifi hotspot, hovewer the sygnal strength is incredibly weak. This is a common meme among the students. Will you fix the wifi router?
 
 
-Accept: money+, corruption +
-Decline: coruption-
+Accept: money-, ratings+
+Decline: ratings-

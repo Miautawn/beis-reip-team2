@@ -1,0 +1,4 @@
+You had quite a rough night and some journalist caught you drunk walking around the school half naked! The whole press want to have a few words with you! Will you respond honestly?
+
+Accept: rating--
+Decline: rating ---
