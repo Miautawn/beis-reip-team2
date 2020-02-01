@@ -13,9 +13,9 @@ You have been working as a Headmaster for this school for 15 years. However, we 
 The school, which was once famous for its quality of education compared to other schools, is now at the bottom of the school ratings.
 We feel as though it is time for a change in the school's administration - that also includes You, Mr. Anderson. We have found a candidate        (player name)
 for the Headmaster's place. Nevertheless, we are giving you one last chance. If You manage to do the impossible - which is to climb up the 
-school ratings back where the school belongs in 28 days (the ultimate goal being 1st place in the ratings) - you will keep your job.
+school ratings back where the school belongs in 14 days (the ultimate goal being 1st place in the ratings) - you will keep your job.
 
-You have 4 weeks, Mr. Anderson.    (player name)
+You have 2 weeks, Mr. Anderson.    (player name)
 Do not let us down.
 
 Sincerely,
