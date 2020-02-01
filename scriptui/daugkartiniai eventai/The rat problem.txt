@@ -2,5 +2,5 @@ It seems that some poor creature, possibly a rat, has died somewhere in the scho
 Unfortunately, some guests of honors have noticed the aroma while visiting the school grounds. Are you going to simply ignore it? 
 
 
-Accept: ratings- corruption-
-Decline: ratings- 
+Accept: ratings- 
+Decline: ratings-- corruption-
