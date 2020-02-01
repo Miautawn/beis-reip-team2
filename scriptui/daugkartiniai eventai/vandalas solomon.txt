@@ -1,0 +1,6 @@
+A student has graffitied a school's wall. He claims that it is modern art, but most teachers really don't like the graffiti and just call this action vandalism.
+However, the school would be seen as a very progressive school if we let this slide...
+Are you going to leave the graffiti be?
+
+Accept: rating+ corruption+
+Decline: money-
