@@ -678,3 +678,667 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.01-11.15.38:999][426]LogSavePackage: Moving '../../../../../../Users/marty_000/Desktop/beis-reip-team2/GameJam2020/Saved/VisasDataFDADD1EA480B4DBE631FC685AB67DF00.tmp' to '../../../../../../Users/marty_000/Desktop/beis-reip-team2/GameJam2020/Content/SideScrollerBP/MainOffice/VisasData.uasset'
 [2020.02.01-11.15.39:804][440]LogSlate: Window 'VisasData' being destroyed
 [2020.02.01-11.15.39:872][440]LogSlate: Window 'VisasData' being destroyed
+[2020.02.01-11.16.24:493][ 92]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-11.16.24:507][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.16.24:507][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-11.16.24:507][ 92]PIE: New page: PIE session: MainMenu (Feb 1, 2020, 5:16:24 PM)
+[2020.02.01-11.16.24:520][ 92]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2020.02.01-11.16.24:522][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001793s)
+[2020.02.01-11.16.24:523][ 92]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.01-11.16.24:523][ 92]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2020.02.01-11.16.24:523][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002913s)
+[2020.02.01-11.16.24:550][ 92]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-11.16.24:560][ 92]LogInit: FAudioDevice initialized.
+[2020.02.01-11.16.24:605][ 92]LogLoad: Game class is 'GameMode'
+[2020.02.01-11.16.24:607][ 92]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.01-14.16.24
+[2020.02.01-11.16.24:607][ 92]LogWorld: Bringing up level for play took: 0.000495
+[2020.02.01-11.16.24:624][ 92]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.02.01-11.16.24:624][ 92]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-11.16.24:624][ 92]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-11.16.24:624][ 92]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-11.16.24:627][ 92]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-11.16.24:627][ 92]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu 0.04
+[2020.02.01-11.16.24:628][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.16.25:660][140]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.02.01-11.16.25:660][140]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.02.01-11.16.25:660][140]LogNet: Browse: /Game/SideScrollerBP/Maps/MainOffice
+[2020.02.01-11.16.25:680][140]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/MainOffice
+[2020.02.01-11.16.26:128][140]LogAIModule: Creating AISystem for world MainOffice
+[2020.02.01-11.16.26:128][140]LogLoad: Game class is 'HeadMasterGameMode_C'
+[2020.02.01-11.16.26:130][140]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainOffice.MainOffice up for play (max tick rate 0) at 2020.02.01-14.16.26
+[2020.02.01-11.16.26:130][140]LogWorld: Bringing up level for play took: 0.000619
+[2020.02.01-11.16.26:130][140]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.01-11.16.26:138][140]LogBlueprintUserMessages: [NewOrder_C_0] created
+[2020.02.01-11.16.26:138][140]LogBlueprintUserMessages: [NewOrder_C_0] 6
+[2020.02.01-11.16.26:138][140]LogBlueprintUserMessages: [HeadMaster_C_0] Hello
+[2020.02.01-11.16.26:138][140]LogLoad: Took 0.457844 seconds to LoadMap(/Game/SideScrollerBP/Maps/MainOffice)
+[2020.02.01-11.17.01:950][819]LogBlueprintUserMessages: [NewOrder_C_0] 5
+[2020.02.01-11.17.07:002][ 55]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.17.07:003][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-11.17.07:052][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-11.17.07:053][ 55]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.17.07:083][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-11.17.07:107][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.02.01-11.17.08:962][100]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/MainOffice/HeadMaster.HeadMaster
+[2020.02.01-11.17.09:524][100]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2020.02.01-11.17.10:469][100]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.01-11.17.33:406][486]BlueprintLog: New page: Compile HeadMaster
+[2020.02.01-11.17.34:998][505]LogSlate: Window 'HeadMaster*' being destroyed
+[2020.02.01-11.17.35:060][505]LogSlate: Window 'HeadMaster*' being destroyed
+[2020.02.01-11.17.35:956][526]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-11.17.35:969][526]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.17.35:969][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-11.17.35:969][526]PIE: New page: PIE session: MainMenu (Feb 1, 2020, 5:17:35 PM)
+[2020.02.01-11.17.35:969][526]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2020.02.01-11.17.35:971][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001593s)
+[2020.02.01-11.17.35:971][526]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.01-11.17.35:971][526]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2020.02.01-11.17.35:971][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002338s)
+[2020.02.01-11.17.36:008][526]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-11.17.36:017][526]LogInit: FAudioDevice initialized.
+[2020.02.01-11.17.36:051][526]LogLoad: Game class is 'GameMode'
+[2020.02.01-11.17.36:052][526]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.01-14.17.36
+[2020.02.01-11.17.36:052][526]LogWorld: Bringing up level for play took: 0.000418
+[2020.02.01-11.17.36:064][526]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-11.17.36:064][526]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-11.17.36:064][526]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-11.17.36:066][526]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-11.17.36:066][526]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu -0.522
+[2020.02.01-11.17.36:066][526]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.17.36:960][566]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.02.01-11.17.36:960][566]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.02.01-11.17.36:961][566]LogNet: Browse: /Game/SideScrollerBP/Maps/MainOffice
+[2020.02.01-11.17.36:977][566]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/MainOffice
+[2020.02.01-11.17.37:051][566]LogAIModule: Creating AISystem for world MainOffice
+[2020.02.01-11.17.37:051][566]LogLoad: Game class is 'HeadMasterGameMode_C'
+[2020.02.01-11.17.37:052][566]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainOffice.MainOffice up for play (max tick rate 0) at 2020.02.01-14.17.37
+[2020.02.01-11.17.37:052][566]LogWorld: Bringing up level for play took: 0.000542
+[2020.02.01-11.17.37:052][566]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.01-11.17.37:059][566]LogBlueprintUserMessages: [NewOrder_C_0] created
+[2020.02.01-11.17.37:059][566]LogBlueprintUserMessages: [NewOrder_C_0] 0
+[2020.02.01-11.17.37:060][566]LogBlueprintUserMessages: [HeadMaster_C_0] Hello
+[2020.02.01-11.17.37:060][566]LogLoad: Took 0.082920 seconds to LoadMap(/Game/SideScrollerBP/Maps/MainOffice)
+[2020.02.01-11.17.50:815][211]LogBlueprintUserMessages: [NewOrder_C_0] 6
+[2020.02.01-11.17.56:128][460]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.17.56:129][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-11.17.56:176][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-11.17.56:177][460]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.17.56:207][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-11.17.56:228][461]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.01-11.18.04:193][656]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/MainOffice/NewOrder.NewOrder
+[2020.02.01-11.18.06:134][680]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.01-11.19.11:211][228]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/MainOffice/HeadMaster.HeadMaster
+[2020.02.01-11.21.06:842][616]BlueprintLog: New page: Compile NewOrder
+[2020.02.01-11.21.21:404][905]BlueprintLog: New page: Compile NewOrder
+[2020.02.01-11.21.38:164][218]LogEditorTransaction: Undo Paste clipboard contents
+[2020.02.01-11.21.41:181][281]LogUObjectHash: Warning: Ambiguous search, could be K2Node_GetDataTableRow /Game/SideScrollerBP/MainOffice/NewOrder.NewOrder:EventGraph.K2Node_GetDataTableRow_1 or K2Node_GetDataTableRow /Game/SideScrollerBP/MainOffice/NewOrder.NewOrder:EventGraph.K2Node_GetDataTableRow_1
+[2020.02.01-11.21.41:182][281]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/SideScrollerBP/MainOffice/NewOrder.NewOrder:EventGraph.K2Node_CallFunction_12 or K2Node_CallFunction /Game/SideScrollerBP/MainOffice/NewOrder.NewOrder:EventGraph.K2Node_CallFunction_12
+[2020.02.01-11.21.41:182][281]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/SideScrollerBP/MainOffice/NewOrder.NewOrder:EventGraph.K2Node_VariableGet_16 or K2Node_VariableGet /Game/SideScrollerBP/MainOffice/NewOrder.NewOrder:EventGraph.K2Node_VariableGet_16
+[2020.02.01-11.21.41:182][281]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/SideScrollerBP/MainOffice/NewOrder.NewOrder:EventGraph.K2Node_CallFunction_31 or K2Node_CallFunction /Game/SideScrollerBP/MainOffice/NewOrder.NewOrder:EventGraph.K2Node_CallFunction_31
+[2020.02.01-11.22.44:661][587]BlueprintLog: New page: Compile NewOrder
+[2020.02.01-11.22.46:541][613]LogSlate: Window 'HeadMaster*' being destroyed
+[2020.02.01-11.22.46:602][613]LogSlate: Window 'HeadMaster*' being destroyed
+[2020.02.01-11.22.47:310][629]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-11.22.47:322][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.22.47:323][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-11.22.47:323][629]PIE: New page: PIE session: MainMenu (Feb 1, 2020, 5:22:47 PM)
+[2020.02.01-11.22.47:323][629]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2020.02.01-11.22.47:324][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001607s)
+[2020.02.01-11.22.47:325][629]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.01-11.22.47:325][629]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2020.02.01-11.22.47:325][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002361s)
+[2020.02.01-11.22.47:368][629]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-11.22.47:378][629]LogInit: FAudioDevice initialized.
+[2020.02.01-11.22.47:412][629]LogLoad: Game class is 'GameMode'
+[2020.02.01-11.22.47:413][629]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.01-14.22.47
+[2020.02.01-11.22.47:413][629]LogWorld: Bringing up level for play took: 0.000411
+[2020.02.01-11.22.47:425][629]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-11.22.47:425][629]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-11.22.47:425][629]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-11.22.47:427][629]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-11.22.47:427][629]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu 0.839
+[2020.02.01-11.22.47:427][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.22.48:046][656]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.02.01-11.22.48:046][656]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.02.01-11.22.48:046][656]LogNet: Browse: /Game/SideScrollerBP/Maps/MainOffice
+[2020.02.01-11.22.48:063][656]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/MainOffice
+[2020.02.01-11.22.48:127][656]LogAIModule: Creating AISystem for world MainOffice
+[2020.02.01-11.22.48:128][656]LogLoad: Game class is 'HeadMasterGameMode_C'
+[2020.02.01-11.22.48:129][656]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainOffice.MainOffice up for play (max tick rate 0) at 2020.02.01-14.22.48
+[2020.02.01-11.22.48:129][656]LogWorld: Bringing up level for play took: 0.000567
+[2020.02.01-11.22.48:130][656]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.01-11.22.48:137][656]LogBlueprintUserMessages: [NewOrder_C_0] created
+[2020.02.01-11.22.48:137][656]LogBlueprintUserMessages: [NewOrder_C_0] 7
+[2020.02.01-11.22.48:137][656]LogBlueprintUserMessages: [HeadMaster_C_0] Hello
+[2020.02.01-11.22.48:137][656]LogLoad: Took 0.074423 seconds to LoadMap(/Game/SideScrollerBP/Maps/MainOffice)
+[2020.02.01-11.23.04:170][403]LogBlueprintUserMessages: [NewOrder_C_0] 4
+[2020.02.01-11.23.18:981][ 98]LogBlueprintUserMessages: [NewOrder_C_0] 2
+[2020.02.01-11.23.25:554][406]LogBlueprintUserMessages: [NewOrder_C_0] 6
+[2020.02.01-11.23.38:769][ 25]LogBlueprintUserMessages: [NewOrder_C_0] 5
+[2020.02.01-11.23.53:034][695]LogBlueprintUserMessages: [NewOrder_C_0] 3
+[2020.02.01-11.24.03:403][181]LogBlueprintUserMessages: [NewOrder_C_0] 0
+[2020.02.01-11.24.44:841][122]LogBlueprintUserMessages: [NewOrder_C_0] 1
+[2020.02.01-11.24.54:113][556]LogAssetEditorManager: Opening Asset editor for DataTable /Game/SideScrollerBP/MainOffice/VisasData.VisasData
+[2020.02.01-11.25.14:977][ 81]LogSlate: Window 'VisasData' being destroyed
+[2020.02.01-11.25.15:018][ 81]LogSlate: Window 'VisasData' being destroyed
+[2020.02.01-11.25.22:538][423]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/MainOffice/NewOrder.NewOrder
+[2020.02.01-11.25.47:682][  6]LogSlate: Window 'NewOrder*' being destroyed
+[2020.02.01-11.25.47:728][  6]LogSlate: Window 'NewOrder*' being destroyed
+[2020.02.01-11.25.48:725][ 48]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.25.48:726][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-11.25.48:774][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-11.25.48:775][ 48]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.25.48:809][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-11.25.48:836][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.01-11.25.49:418][ 65]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-11.25.49:430][ 65]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.25.49:431][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-11.25.49:431][ 65]PIE: New page: PIE session: MainMenu (Feb 1, 2020, 5:25:49 PM)
+[2020.02.01-11.25.49:431][ 65]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2020.02.01-11.25.49:433][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001733s)
+[2020.02.01-11.25.49:433][ 65]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.01-11.25.49:434][ 65]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2020.02.01-11.25.49:434][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002791s)
+[2020.02.01-11.25.49:470][ 65]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-11.25.49:480][ 65]LogInit: FAudioDevice initialized.
+[2020.02.01-11.25.49:511][ 65]LogLoad: Game class is 'GameMode'
+[2020.02.01-11.25.49:511][ 65]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.01-14.25.49
+[2020.02.01-11.25.49:512][ 65]LogWorld: Bringing up level for play took: 0.000403
+[2020.02.01-11.25.49:523][ 65]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-11.25.49:523][ 65]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-11.25.49:523][ 65]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-11.25.49:525][ 65]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-11.25.49:525][ 65]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu 0.937
+[2020.02.01-11.25.49:525][ 65]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.25.50:275][ 98]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.02.01-11.25.50:275][ 98]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.02.01-11.25.50:275][ 98]LogNet: Browse: /Game/SideScrollerBP/Maps/MainOffice
+[2020.02.01-11.25.50:276][ 98]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/MainOffice
+[2020.02.01-11.25.50:326][ 98]LogAIModule: Creating AISystem for world MainOffice
+[2020.02.01-11.25.50:326][ 98]LogLoad: Game class is 'HeadMasterGameMode_C'
+[2020.02.01-11.25.50:327][ 98]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainOffice.MainOffice up for play (max tick rate 0) at 2020.02.01-14.25.50
+[2020.02.01-11.25.50:327][ 98]LogWorld: Bringing up level for play took: 0.000618
+[2020.02.01-11.25.50:327][ 98]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.01-11.25.50:334][ 98]LogBlueprintUserMessages: [NewOrder_C_0] created
+[2020.02.01-11.25.50:335][ 98]LogBlueprintUserMessages: [NewOrder_C_0] 7
+[2020.02.01-11.25.50:335][ 98]LogBlueprintUserMessages: [HeadMaster_C_0] Hello
+[2020.02.01-11.25.50:335][ 98]LogLoad: Took 0.058946 seconds to LoadMap(/Game/SideScrollerBP/Maps/MainOffice)
+[2020.02.01-11.25.54:191][275]LogAssetEditorManager: Opening Asset editor for DataTable /Game/SideScrollerBP/MainOffice/VisasData.VisasData
+[2020.02.01-11.26.14:341][887]LogBlueprintUserMessages: [NewOrder_C_0] 3
+[2020.02.01-11.26.54:886][150]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/MainOffice/Money.Money
+[2020.02.01-11.26.56:547][184]LogSlate: Window 'Money' being destroyed
+[2020.02.01-11.26.56:587][184]LogSlate: Window 'Money' being destroyed
+[2020.02.01-11.26.57:607][227]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/MainOffice/NewOrder.NewOrder
+[2020.02.01-11.27.52:164][497]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/MainOffice/HeadMaster.HeadMaster
+[2020.02.01-11.28.14:287][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.28.14:288][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-11.28.14:374][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-11.28.14:375][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.28.14:410][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-11.28.14:684][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.01-11.28.20:701][154]BlueprintLog: New page: Compile HeadMaster
+[2020.02.01-11.28.23:080][187]LogSlate: Window 'HeadMaster*' being destroyed
+[2020.02.01-11.28.23:141][187]LogSlate: Window 'HeadMaster*' being destroyed
+[2020.02.01-11.28.24:105][209]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-11.28.24:118][209]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.28.24:119][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-11.28.24:119][209]PIE: New page: PIE session: MainMenu (Feb 1, 2020, 5:28:24 PM)
+[2020.02.01-11.28.24:119][209]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2020.02.01-11.28.24:121][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001733s)
+[2020.02.01-11.28.24:121][209]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.01-11.28.24:121][209]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2020.02.01-11.28.24:122][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002680s)
+[2020.02.01-11.28.24:164][209]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-11.28.24:174][209]LogInit: FAudioDevice initialized.
+[2020.02.01-11.28.24:205][209]LogLoad: Game class is 'GameMode'
+[2020.02.01-11.28.24:206][209]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.01-14.28.24
+[2020.02.01-11.28.24:206][209]LogWorld: Bringing up level for play took: 0.000354
+[2020.02.01-11.28.24:218][209]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-11.28.24:218][209]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-11.28.24:218][209]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-11.28.24:220][209]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-11.28.24:220][209]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu -0.368
+[2020.02.01-11.28.24:220][209]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.28.25:762][282]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.02.01-11.28.25:762][282]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.02.01-11.28.25:763][282]LogNet: Browse: /Game/SideScrollerBP/Maps/MainOffice
+[2020.02.01-11.28.25:781][282]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/MainOffice
+[2020.02.01-11.28.25:857][282]LogAIModule: Creating AISystem for world MainOffice
+[2020.02.01-11.28.25:857][282]LogLoad: Game class is 'HeadMasterGameMode_C'
+[2020.02.01-11.28.25:859][282]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainOffice.MainOffice up for play (max tick rate 0) at 2020.02.01-14.28.25
+[2020.02.01-11.28.25:859][282]LogWorld: Bringing up level for play took: 0.000558
+[2020.02.01-11.28.25:859][282]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.01-11.28.25:866][282]LogBlueprintUserMessages: [NewOrder_C_0] created
+[2020.02.01-11.28.25:866][282]LogBlueprintUserMessages: [NewOrder_C_0] 7
+[2020.02.01-11.28.25:866][282]LogBlueprintUserMessages: [HeadMaster_C_0] Hello
+[2020.02.01-11.28.25:866][282]LogLoad: Took 0.085213 seconds to LoadMap(/Game/SideScrollerBP/Maps/MainOffice)
+[2020.02.01-11.28.30:929][520]LogBlueprintUserMessages: [NewOrder_C_0] 6
+[2020.02.01-11.28.50:689][447]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.28.50:689][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-11.28.50:735][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-11.28.50:736][447]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.28.50:769][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-11.28.50:795][449]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.01-11.28.55:645][568]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/MainOffice/NewOrder.NewOrder
+[2020.02.01-11.30.09:942][868]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-11.30.09:959][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.30.09:959][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-11.30.09:959][868]PIE: New page: PIE session: MainMenu (Feb 1, 2020, 5:30:09 PM)
+[2020.02.01-11.30.09:959][868]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2020.02.01-11.30.09:961][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001644s)
+[2020.02.01-11.30.09:962][868]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.01-11.30.09:962][868]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2020.02.01-11.30.09:962][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002554s)
+[2020.02.01-11.30.09:996][868]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-11.30.10:005][868]LogInit: FAudioDevice initialized.
+[2020.02.01-11.30.10:039][868]LogLoad: Game class is 'GameMode'
+[2020.02.01-11.30.10:040][868]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.01-14.30.10
+[2020.02.01-11.30.10:040][868]LogWorld: Bringing up level for play took: 0.000398
+[2020.02.01-11.30.10:052][868]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-11.30.10:052][868]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-11.30.10:052][868]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-11.30.10:054][868]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-11.30.10:054][868]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu -0.534
+[2020.02.01-11.30.10:054][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.30.10:890][906]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.02.01-11.30.10:890][906]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.02.01-11.30.10:890][906]LogNet: Browse: /Game/SideScrollerBP/Maps/MainOffice
+[2020.02.01-11.30.10:910][906]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/MainOffice
+[2020.02.01-11.30.10:963][906]LogAIModule: Creating AISystem for world MainOffice
+[2020.02.01-11.30.10:964][906]LogLoad: Game class is 'HeadMasterGameMode_C'
+[2020.02.01-11.30.10:965][906]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainOffice.MainOffice up for play (max tick rate 0) at 2020.02.01-14.30.10
+[2020.02.01-11.30.10:965][906]LogWorld: Bringing up level for play took: 0.000592
+[2020.02.01-11.30.10:966][906]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.01-11.30.10:973][906]LogBlueprintUserMessages: [NewOrder_C_0] created
+[2020.02.01-11.30.10:973][906]LogBlueprintUserMessages: [NewOrder_C_0] 3
+[2020.02.01-11.30.10:973][906]LogBlueprintUserMessages: [HeadMaster_C_0] Hello
+[2020.02.01-11.30.10:973][906]LogLoad: Took 0.063093 seconds to LoadMap(/Game/SideScrollerBP/Maps/MainOffice)
+[2020.02.01-11.30.15:744][127]LogAssetEditorManager: Opening Asset editor for DataTable /Game/SideScrollerBP/MainOffice/VisasData.VisasData
+[2020.02.01-11.30.29:414][520]LogBlueprintUserMessages: [NewOrder_C_0] 2
+[2020.02.01-11.30.50:873][255]LogBlueprintUserMessages: [NewOrder_C_0] 0
+[2020.02.01-11.31.03:483][845]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.31.03:483][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-11.31.03:533][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-11.31.03:534][845]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.31.03:571][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-11.31.03:585][846]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.02.01-11.32.12:514][ 56]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.01-11.32.14:423][ 98]BlueprintLog: New page: Compile NewOrder
+[2020.02.01-11.32.33:315][463]BlueprintLog: New page: Compile NewOrder
+[2020.02.01-11.33.17:091][279]BlueprintLog: New page: Compile NewOrder
+[2020.02.01-11.33.19:210][315]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-11.33.19:227][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.33.19:227][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-11.33.19:227][315]PIE: New page: PIE session: MainMenu (Feb 1, 2020, 5:33:19 PM)
+[2020.02.01-11.33.19:228][315]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2020.02.01-11.33.19:229][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001726s)
+[2020.02.01-11.33.19:230][315]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.01-11.33.19:230][315]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2020.02.01-11.33.19:230][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002669s)
+[2020.02.01-11.33.19:270][315]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-11.33.19:280][315]LogInit: FAudioDevice initialized.
+[2020.02.01-11.33.19:310][315]LogLoad: Game class is 'GameMode'
+[2020.02.01-11.33.19:311][315]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.01-14.33.19
+[2020.02.01-11.33.19:311][315]LogWorld: Bringing up level for play took: 0.000414
+[2020.02.01-11.33.19:323][315]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-11.33.19:323][315]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.01-11.33.19:323][315]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-11.33.19:325][315]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.01-11.33.19:325][315]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu 0.737
+[2020.02.01-11.33.19:325][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.33.20:002][346]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.02.01-11.33.20:002][346]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.02.01-11.33.20:003][346]LogNet: Browse: /Game/SideScrollerBP/Maps/MainOffice
+[2020.02.01-11.33.20:018][346]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/MainOffice
+[2020.02.01-11.33.20:077][346]LogAIModule: Creating AISystem for world MainOffice
+[2020.02.01-11.33.20:077][346]LogLoad: Game class is 'HeadMasterGameMode_C'
+[2020.02.01-11.33.20:079][346]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainOffice.MainOffice up for play (max tick rate 0) at 2020.02.01-14.33.20
+[2020.02.01-11.33.20:079][346]LogWorld: Bringing up level for play took: 0.000581
+[2020.02.01-11.33.20:080][346]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.01-11.33.20:086][346]LogBlueprintUserMessages: [NewOrder_C_0] created
+[2020.02.01-11.33.20:087][346]LogBlueprintUserMessages: [NewOrder_C_0] 4
+[2020.02.01-11.33.20:087][346]LogBlueprintUserMessages: [HeadMaster_C_0] Hello
+[2020.02.01-11.33.20:087][346]LogLoad: Took 0.068304 seconds to LoadMap(/Game/SideScrollerBP/Maps/MainOffice)
+[2020.02.01-11.33.36:717][914]LogBlueprintUserMessages: [NewOrder_C_0] 6
+[2020.02.01-11.34.15:516][112]LogBlueprintUserMessages: [NewOrder_C_0] 2
+[2020.02.01-11.34.29:550][669]LogBlueprintUserMessages: [NewOrder_C_0] 3
+[2020.02.01-11.34.46:846][479]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.34.46:846][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-11.34.46:895][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-11.34.46:896][479]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.01-11.34.46:932][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-11.34.46:947][480]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.02.01-11.34.49:546][584]LogSavePackage: Moving '../../../../../../Users/marty_000/Desktop/beis-reip-team2/GameJam2020/Saved/HeadMasterD44C3D334FF2FC9AE93DEB9ADEEDCA65.tmp' to '../../../../../../Users/marty_000/Desktop/beis-reip-team2/GameJam2020/Content/SideScrollerBP/MainOffice/HeadMaster.uasset'
+[2020.02.01-11.34.49:701][584]LogSavePackage: Moving '../../../../../../Users/marty_000/Desktop/beis-reip-team2/GameJam2020/Saved/NewOrder6AAFD15C4CF13A8484C9B5B4905C3238.tmp' to '../../../../../../Users/marty_000/Desktop/beis-reip-team2/GameJam2020/Content/SideScrollerBP/MainOffice/NewOrder.uasset'
+[2020.02.01-11.34.50:768][610]LogSlate: Window 'NewOrder' being destroyed
+[2020.02.01-11.34.50:820][610]LogSlate: Window 'GameJam2020 - Unreal Editor' being destroyed
+[2020.02.01-11.34.50:820][610]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.01-11.34.51:020][611]Cmd: QUIT_EDITOR
+[2020.02.01-11.34.51:327][611]LogExit: Preparing to exit.
+[2020.02.01-11.34.52:306][611]LogExit: Editor shut down
+[2020.02.01-11.34.52:306][611]LogExit: Transaction tracking system shut down
+[2020.02.01-11.34.52:525][611]LogExit: Object subsystem successfully closed.
+[2020.02.01-11.34.52:546][611]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.01-11.34.52:552][611]LogD3D11RHI: Shutdown
+[2020.02.01-11.34.52:552][611]LogD3D11RHI: CleanupD3DDevice
+[2020.02.01-11.34.52:556][611]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2020.02.01-11.34.52:556][611]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.01-11.34.52:574][611]LogModuleManager: Shutting down and abandoning module SequencerWidgets (632)
+[2020.02.01-11.34.52:574][611]LogModuleManager: Shutting down and abandoning module BlueprintGraph (630)
+[2020.02.01-11.34.52:574][611]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2020.02.01-11.34.52:574][611]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2020.02.01-11.34.52:574][611]LogModuleManager: Shutting down and abandoning module DataTableEditor (624)
+[2020.02.01-11.34.52:574][611]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2020.02.01-11.34.52:574][611]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2020.02.01-11.34.52:574][611]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2020.02.01-11.34.52:574][611]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2020.02.01-11.34.52:574][611]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2020.02.01-11.34.52:574][611]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2020.02.01-11.34.52:575][611]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2020.02.01-11.34.52:576][611]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2020.02.01-11.34.53:492][611]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2020.02.01-11.34.53:492][611]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2020.02.01-11.34.53:492][611]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2020.02.01-11.34.53:492][611]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2020.02.01-11.34.53:492][611]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2020.02.01-11.34.53:492][611]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2020.02.01-11.34.53:492][611]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2020.02.01-11.34.53:492][611]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2020.02.01-11.34.53:492][611]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2020.02.01-11.34.53:492][611]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2020.02.01-11.34.53:492][611]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2020.02.01-11.34.53:492][611]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2020.02.01-11.34.53:492][611]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2020.02.01-11.34.53:492][611]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2020.02.01-11.34.53:493][611]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2020.02.01-11.34.53:493][611]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2020.02.01-11.34.53:493][611]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2020.02.01-11.34.53:493][611]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2020.02.01-11.34.53:493][611]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2020.02.01-11.34.53:493][611]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2020.02.01-11.34.53:493][611]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2020.02.01-11.34.53:493][611]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2020.02.01-11.34.53:493][611]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2020.02.01-11.34.53:535][611]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2020.02.01-11.34.53:535][611]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2020.02.01-11.34.53:535][611]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2020.02.01-11.34.53:535][611]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2020.02.01-11.34.53:535][611]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2020.02.01-11.34.53:535][611]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2020.02.01-11.34.53:535][611]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2020.02.01-11.34.53:535][611]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2020.02.01-11.34.53:535][611]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2020.02.01-11.34.53:535][611]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2020.02.01-11.34.53:540][611]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2020.02.01-11.34.53:540][611]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2020.02.01-11.34.53:540][611]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2020.02.01-11.34.53:540][611]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2020.02.01-11.34.53:540][611]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2020.02.01-11.34.53:540][611]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2020.02.01-11.34.53:540][611]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2020.02.01-11.34.53:541][611]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2020.02.01-11.34.53:541][611]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2020.02.01-11.34.53:541][611]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2020.02.01-11.34.53:541][611]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2020.02.01-11.34.53:541][611]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2020.02.01-11.34.53:541][611]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2020.02.01-11.34.53:541][611]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2020.02.01-11.34.53:541][611]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2020.02.01-11.34.53:541][611]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2020.02.01-11.34.53:541][611]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2020.02.01-11.34.53:541][611]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2020.02.01-11.34.53:541][611]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2020.02.01-11.34.53:541][611]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2020.02.01-11.34.53:541][611]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2020.02.01-11.34.53:541][611]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2020.02.01-11.34.53:543][611]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2020.02.01-11.34.53:690][611]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2020.02.01-11.34.53:693][611]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2020.02.01-11.34.53:693][611]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2020.02.01-11.34.53:693][611]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2020.02.01-11.34.53:693][611]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2020.02.01-11.34.53:693][611]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2020.02.01-11.34.53:693][611]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.02.01-11.34.53:693][611]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.02.01-11.34.53:693][611]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.02.01-11.34.53:693][611]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.02.01-11.34.53:693][611]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.02.01-11.34.53:693][611]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.02.01-11.34.53:693][611]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2020.02.01-11.34.53:693][611]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2020.02.01-11.34.53:693][611]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.02.01-11.34.53:693][611]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.02.01-11.34.53:694][611]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.02.01-11.34.53:795][611]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.02.01-11.34.53:895][611]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.02.01-11.34.53:895][611]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.02.01-11.34.53:895][611]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.02.01-11.34.53:895][611]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.02.01-11.34.53:895][611]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.02.01-11.34.53:895][611]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.02.01-11.34.53:895][611]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.02.01-11.34.53:896][611]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.02.01-11.34.53:896][611]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.02.01-11.34.53:896][611]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.02.01-11.34.53:896][611]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.02.01-11.34.53:896][611]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.02.01-11.34.53:897][611]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.02.01-11.34.53:897][611]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.02.01-11.34.53:897][611]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.02.01-11.34.53:897][611]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.02.01-11.34.53:897][611]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.02.01-11.34.53:897][611]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.02.01-11.34.53:897][611]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2020.02.01-11.34.53:898][611]LogModuleManager: Shutting down and abandoning module Media (241)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.02.01-11.34.53:904][611]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.02.01-11.34.53:905][611]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.02.01-11.34.53:905][611]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.02.01-11.34.53:906][611]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.02.01-11.34.53:906][611]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.02.01-11.34.53:906][611]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.02.01-11.34.53:906][611]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.02.01-11.34.53:906][611]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.02.01-11.34.53:906][611]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.02.01-11.34.53:906][611]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.02.01-11.34.53:907][611]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.02.01-11.34.53:907][611]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.02.01-11.34.53:907][611]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.02.01-11.34.53:907][611]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.02.01-11.34.53:907][611]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.02.01-11.34.53:907][611]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.02.01-11.34.53:907][611]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.02.01-11.34.53:907][611]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.02.01-11.34.53:907][611]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.02.01-11.34.53:907][611]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.02.01-11.34.53:907][611]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.02.01-11.34.53:966][611]LogDerivedDataCache: Shutdown
+[2020.02.01-11.34.53:966][611]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.02.01-11.34.53:966][611]LogXGEController: Cleaning working directory: C:/Users/marty_000/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.02.01-11.34.53:967][611]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.02.01-11.34.53:968][611]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.02.01-11.34.53:968][611]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.02.01-11.34.53:968][611]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.02.01-11.34.53:968][611]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.02.01-11.34.53:968][611]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.02.01-11.34.53:968][611]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.02.01-11.34.53:969][611]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.02.01-11.34.53:969][611]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.02.01-11.34.53:969][611]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.02.01-11.34.53:976][611]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.02.01-11.34.53:976][611]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.02.01-11.34.53:977][611]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.02.01-11.34.53:977][611]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.02.01-11.34.53:985][611]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.02.01-11.34.53:985][611]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.01-11.34.53:985][611]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCA55782F-4027-1047-03AB-53A296C0CD07%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4c896db545f1990a05fd95a14fa14e45%7Cfe43238db4224a0ca90f0ae7778aadad%7Cb669cef4-e376-4214-9171-4e33d6a57b22&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.01-11.34.54:017][611]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.02.01-11.34.54:018][611]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.02.01-11.34.54:018][611]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.02.01-11.34.54:018][611]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.02.01-11.34.54:018][611]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.02.01-11.34.54:018][611]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.02.01-11.34.54:018][611]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.02.01-11.34.54:018][611]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.02.01-11.34.54:018][611]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.01-11.34.54:018][611]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.02.01-11.34.54:018][611]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.02.01-11.34.54:019][611]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.02.01-11.34.54:019][611]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.02.01-11.34.54:019][611]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.02.01-11.34.54:019][611]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.02.01-11.34.54:019][611]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.02.01-11.34.54:019][611]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.02.01-11.34.54:019][611]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.02.01-11.34.54:020][611]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.02.01-11.34.54:020][611]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.02.01-11.34.54:020][611]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.02.01-11.34.54:020][611]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.02.01-11.34.54:020][611]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.02.01-11.34.54:020][611]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.02.01-11.34.54:020][611]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.02.01-11.34.54:020][611]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.02.01-11.34.54:020][611]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.02.01-11.34.54:020][611]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.02.01-11.34.54:020][611]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.02.01-11.34.54:026][611]LogExit: Exiting.
+[2020.02.01-11.34.54:037][611]Log file closed, 02/01/20 14:34:54
