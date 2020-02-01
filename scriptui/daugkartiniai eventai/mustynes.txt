@@ -1,0 +1,5 @@
+A fight between two students has broken out right in front of your eyes! You have a choice: either you separate them (everyone will be talking about how it could've finished) or you let them fight it out like men!
+Are you going to separate them?
+
+Accept: rating-
+Decline: nieko
