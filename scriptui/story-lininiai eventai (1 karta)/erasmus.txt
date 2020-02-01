@@ -1,0 +1,25 @@
+Your school has the opportunity to participate in the international project 'Herasmus'. Your students really aren't known for their English speaking skills and this would be a great way to earn some easy rating points.
+Are you going to take this opportunity?
+
+Decline: nieko nebuna
+Accept: rating++ money-
+
+
+acceptinus po keliu dienu firina eventas:
+
+The Herasmus project initiative seems to be a great success in your school. However, one of your school's students has, reportedly, been getting very close to a student from another country. 
+You are considering to warn your student so that he doesn't do anything silly. However, this would probably be seen as a bit of a tyrannical choice - you would be telling him how to live his own life.
+Are you going to warn him?
+
+Accept: rating-
+Decline: nieko nebuna
+
+
+Declininus po keliu dienu firina naujas eventas:
+
+Well, it seems that I've made a mistake. Letting the student do his thing has caused massive problems. In short, the student from another country is now pregnant. 
+This really is going to be messy. The obvious method of dealing with this problem is to simply tell everyone (this, of course, includes the student's parents) about your incompetence. There is another method, which is not so ethical - you may try and (somehow) hide this fact from everyone...
+Are you going to tell everyone about this?
+
+Accept: rating-- 
+Decline: corruption++ money-
