@@ -1,0 +1,6 @@
+A well behaved student has been caught vaping and triggering the fire alarm, causing mass panic.
+ Are you going to to kick him out?
+
+
+Accept: ratings-, corruption-; 
+Decline: ratings+; coruption+;

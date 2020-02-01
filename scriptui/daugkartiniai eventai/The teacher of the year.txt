@@ -1,0 +1,6 @@
+A national "teacher of the year" contest is being held once again and one of your employees has been nominated. Hovewer, competition is fierce, but the reward is well worth fighting for.
+Are you going to help your candidate by supporting him financially?
+
+
+Accept: ratings++, money--; 
+Decline: ratings-;
