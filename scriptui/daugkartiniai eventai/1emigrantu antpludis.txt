@@ -1,0 +1,6 @@
+You just got news that 15 very smart, promising students have left the Chair High School because they were all dissatisfied with the quality of education, there.
+It's a really pleasant surprise that they chose to request to join your school.
+Are you going to let them join the school?
+
+Accept: rating+
+Decline: corruption-

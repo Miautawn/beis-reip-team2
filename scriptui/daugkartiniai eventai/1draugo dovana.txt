@@ -1,0 +1,5 @@
+A good buddy of yours sent a letter to you today. It seems that he has heard about your struggles at work and decided to support your cause financially.
+Are you going to accept his support?
+
+Accept: money++
+Decline: corruption-

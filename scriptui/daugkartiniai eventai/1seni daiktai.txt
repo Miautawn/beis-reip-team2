@@ -1,0 +1,6 @@
+Recently one teacher had the brilliant idea of going through the school's unused items and found out that many of them are still in good condition. 
+Now it's up to you to make the decision if we should sell them or not.
+Are you going to sell these unused items?
+
+Accept: money+
+Decline: nieko
