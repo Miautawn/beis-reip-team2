@@ -1,0 +1,5 @@
+One of your best teachers seems to be quite demotivated. Maybe a prize or pay raise could fix the problem and encourage him to work even harder?
+Are you going to increase his salary?
+
+Accept: money- rating+
+Decline: nieko nebuna
