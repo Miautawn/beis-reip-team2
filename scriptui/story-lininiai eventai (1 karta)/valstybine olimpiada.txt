@@ -1,0 +1,8 @@
+One of your students has managed to qualify for the country's mathematics olympiad. That is quite the achievement on its own, but you can't help but think of ways to get more rating points for your school out of this olympiad.
+And you have thought of a devious plan - because one of the maths teachers himself has created some of the olympiad's exercises this year, he could give indirect hints to the student on some of the questions before the olympiad.
+Are you going to follow through with this plan?
+
+Accept: (po keliu dienu eventas firina) ratings+++ corruption+ money- (tekstas evento: "The devious plan actually worked! The student has managed to finish 9th in the olympiad and this will be a huge boost to our ratings.
+However, not everything went perfect, as the maths teacher had to be bribed to have him follow through with the plan.")
+Decline: (po keliu dienu eventas firina) ratings+ corruption- (tekstas evento: "The maths olympiad's results came back and our student finished 50th out of, well, ... 50 students. 
+Hey, you can't win them all and someone has to be last - the olympiads are there to test students abilities, which is one of the reasons why cheating in these events is so absurd.")

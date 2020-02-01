@@ -1,0 +1,5 @@
+Shady people have come to your office with an offer of giving you money for some favours in the future...
+
+
+Accept: money+, corruption +
+Decline: coruption-

@@ -1,0 +1,6 @@
+A student was caught dealing cigarettes to his classmates. Confiscating them would be seen as a bit of a corrupt move, but it would gain you some money. 
+However, leaving the student with the cigarettes might hurt the ratings as he will continue to sell them.
+Are you going to confiscate the cigarettes?
+
+Accept: money+ corruption+
+Decline: rating-

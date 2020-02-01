@@ -1,0 +1,5 @@
+There are rumours going around the school that a student with average grades actually hates gaming (while the school's name is clearly 'Gamer High School'). There is not a single person in the school that want him to stay here.
+Are you going to kick him?
+
+Accept: corruption-
+Decline: corruption+

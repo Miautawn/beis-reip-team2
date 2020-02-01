@@ -1,0 +1,8 @@
+Mr. Evans has had problems with alcohol for a few years now. He was a good teacher and although he sometimes came to school while he wasn't fully sober, you always wrote it off as just a small wrongdoing.
+However, he has crossed the line this time.
+He came to the school very drunk and for some reason tried to teach students anyway - it's not hard to imagine how that went.
+Are you going to fire him?
+
+Accept: rating- corruption-
+Decline: (kita diena) rating--- corruption- (tekstas atskirame evente: "It seems that letting Mr. Evans keep his job was a mistake. Some of the students had recorded the incident and they have posted it on the internet.
+Parents are outraged and request an explanation why Mr. Evans was not fired. It's clear that the rating of the school will take a huge blow.)

@@ -1,0 +1,5 @@
+A student was caught vaping during a lesson. You may choose a punishment that can benefit you financially...
+Are you going to confiscate his vape forever?
+
+Accept: money+ corruption+0,5 (jei imanoma)
+Decline: raitings- (jei imanoma)
