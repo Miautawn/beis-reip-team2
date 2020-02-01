@@ -1,0 +1,7 @@
+As you open the newspaper you see a familiar face printed there - it's you! 
+Yesterday as you headed back home you saw a child falling off the bicycle - he was badly injured and you immediately called the ambulance and quickly performed first aid. 
+Apparently, this story made it into the newspapers - and as such even the school's ratings will surely skyrocket! As you're reading the article, you thought of a genious idea you need to fulfill.
+Do you want to flex on the students with this story?
+
+Accept: rating+++
+Decline: rating+++
