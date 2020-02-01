@@ -1,0 +1,4 @@
+Students have gone on strike! They refuse to wear the gamer emblem - a proud symbol of this school. Will you put up with this?
+
+Accept: ratings-;
+Decline: ratings+, corruption+;

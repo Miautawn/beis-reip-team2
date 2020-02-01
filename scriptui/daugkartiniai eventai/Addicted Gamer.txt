@@ -1,0 +1,4 @@
+A certain student appears to be very addicted to a game called "League of Strike" and to the point where it's simply annoying and his presence in the school lowers the ratings aswell. Should you kick him out?
+
+Accept: ratings+, corruption+;
+Decline: ratings-, corruption -;
