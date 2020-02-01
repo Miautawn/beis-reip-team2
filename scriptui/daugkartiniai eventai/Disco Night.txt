@@ -1,0 +1,4 @@
+During the anual holiday disco night, two of your students were caught drinking in the schoolgrounds. Are you going to report this to their parents?
+
+Accept: coruption-, ratings-
+Decline: corruption+

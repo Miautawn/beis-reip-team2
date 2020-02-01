@@ -1,0 +1,5 @@
+Recently a crime was commited on your schoolgrounds directly in from of dozen of cameras. Hovewer, nobody knows that they simply do not work and did not record anything. Are you going to lie to the 
+police invesigators about your security equipment?
+
+Accept: corrupton++;
+Decline: corruption-; ratings-;
