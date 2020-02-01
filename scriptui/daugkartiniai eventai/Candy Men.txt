@@ -1,0 +1,4 @@
+A word is spreading that there are some illegal candy deallers among the school halls. As ubsurd as it sounds, this is still a crime. Are you going to stop the wrondoer?
+
+Accept: money-, ratings+
+Decline: corruption+
