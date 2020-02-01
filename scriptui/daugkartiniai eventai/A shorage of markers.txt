@@ -1,0 +1,4 @@
+Some of your employees have been making complaints about the shortage of school supplies. Are you going to take care of it?
+
+Accept: ratings+, money--; 
+Decline: ratings--;

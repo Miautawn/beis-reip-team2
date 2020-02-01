@@ -1,0 +1,4 @@
+A student in your school has a really annoying voice. Are you going to do the school a favour and kick him out?
+
+Accept: corruption+ rating+
+Decline: nieko

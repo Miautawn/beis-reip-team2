@@ -1,0 +1,5 @@
+A collective of students asked your support in question of school's decorations for the upcoming festival. Are you going to lend the helping hand?
+
+
+Accept: ratings+, money-; 
+Decline: ratings-;

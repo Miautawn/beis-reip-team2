@@ -1,0 +1,5 @@
+A teacher came to your office today - he said he is having financial problems and that he has an intriguing idea. He will give much better grades for the students for a small payment.
+Are you going to bribe him?
+
+Accept: money- rating+
+Decline: nieko
