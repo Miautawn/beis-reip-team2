@@ -1,0 +1,5 @@
+One day you receive a visit from your former boss, the previous headmaster. He mocks you of your work and publicly insults you in front of everyone. 
+Are you going to defend yourself and order him to leave?
+
+Accept: ratings+
+Decline: ratings-
