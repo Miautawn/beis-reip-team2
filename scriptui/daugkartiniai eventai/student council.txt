@@ -1,0 +1,5 @@
+What a shame! The student council has been reported stealing from school's funds all along. Expelling them is an obvious choice, 
+hovewer there is a risk of black mail and hate crimes against your school if you do so...
+
+Accept: corruption--, ratings--
+Decline: corruption++, money-;
