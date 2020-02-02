@@ -1,0 +1,5 @@
+Your school has just received government funds to organise a local clean-up event. However, with some clever paperwork we can cancel the event and keep the funds to ourselves and the school...
+Are you going to organise the event?
+
+Accept: ratings+
+Decline: money+

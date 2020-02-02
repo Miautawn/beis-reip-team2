@@ -1,0 +1,6 @@
+A new study has shown the power of experimental foods - these foods can, apparently, temporarily improve one's ability to learn. 
+Although it's not entirely legal, you are getting ideas of changing the canteen's menu in a way that most of the choices in the menu will be experimental foods...
+Are you going to sell experimental foods in the canteen?
+
+Accept: ratings++ corruption+ money-
+Decline: corruption-
